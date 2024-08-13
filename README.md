@@ -30,6 +30,7 @@ ___
 ### 2. Data preprocessing
 - **Feature Selection and Synchronization** : we selected only three types of data ”mLight, wLight, and wHr” from the nine types of data to train the model.
 - we extracted a total of 24 hours time-sequence period from 9 am to 9 am on the previous day for Question type - Q, and 12 hours time-sequence period from 9 pm to 9 am on the previous day for Question type - S, and used them for learning and inference.
+  
   ![image](https://github.com/user-attachments/assets/755513d2-a7a1-4d94-af92-662c9bae094c)
 
 - **Normalizing** : we first used logarithmic operation on the mLight and wLight data to reduce the variation of the data. and we used Min-max scaling.
