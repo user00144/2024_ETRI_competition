@@ -18,7 +18,6 @@ ___
 ## Competition Topic
 
 - **Sleep Quality Estimation From Lifelog Data**
-- 
 
 ---
 
