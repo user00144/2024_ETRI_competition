@@ -57,4 +57,4 @@ ___
 
 - **Publication conference paper(accepted)** in The 15th International Conference on ICT Convergence (Oct. 2024)
 
- 
+<img width="811" alt="image" src="https://github.com/user-attachments/assets/bd577984-0386-4eab-9e3b-637e5b3f6e98">
